@@ -1,0 +1,29 @@
+h2{
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: flex;
+    justify-content: center;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+ul li{
+   
+}
+ul li a{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+ul li a:hover{
+    border-bottom: 2px solid #34495e;
+    color: #16a085;
+}
